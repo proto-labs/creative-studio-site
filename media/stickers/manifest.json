@@ -1,0 +1,249 @@
+{
+  "title": "Flat vector sticker packs",
+  "license": "CC0-1.0",
+  "license_note": "All stickers are original work, dedicated to the public domain under CC0. No copyrighted material, trademarks, or third-party assets were used.",
+  "style": "Bold outlines (~24px), 2-4 flat colours, soft rounded shapes, consistent palette",
+  "viewBox": "0 0 512 512",
+  "stickers": [
+    {
+      "id": "confetti",
+      "file": "confetti.svg",
+      "label": "Confetti",
+      "tags": ["celebration", "party", "festive", "fun"]
+    },
+    {
+      "id": "party-popper",
+      "file": "party-popper.svg",
+      "label": "Party Popper",
+      "tags": ["celebration", "party", "event", "hooray"]
+    },
+    {
+      "id": "trophy",
+      "file": "trophy.svg",
+      "label": "Trophy",
+      "tags": ["celebration", "winner", "award", "achievement"]
+    },
+    {
+      "id": "heart",
+      "file": "heart.svg",
+      "label": "Heart",
+      "tags": ["reaction", "love", "like", "favorite"]
+    },
+    {
+      "id": "fire",
+      "file": "fire.svg",
+      "label": "Fire",
+      "tags": ["reaction", "hot", "trending", "lit"]
+    },
+    {
+      "id": "sparkles",
+      "file": "sparkles.svg",
+      "label": "Sparkles",
+      "tags": ["reaction", "magic", "shine", "special"]
+    },
+    {
+      "id": "curved-arrow",
+      "file": "curved-arrow.svg",
+      "label": "Curved Arrow",
+      "tags": ["arrow", "undo", "return", "direction"]
+    },
+    {
+      "id": "straight-arrow",
+      "file": "straight-arrow.svg",
+      "label": "Straight Arrow",
+      "tags": ["arrow", "direction", "forward", "next"]
+    },
+    {
+      "id": "starburst",
+      "file": "starburst.svg",
+      "label": "Starburst Badge",
+      "tags": ["badge", "new", "callout", "promo", "shape"]
+    },
+    {
+      "id": "ribbon-banner",
+      "file": "ribbon-banner.svg",
+      "label": "Ribbon Banner",
+      "tags": ["badge", "sale", "banner", "label", "shape"]
+    },
+    {
+      "id": "speech-bubble",
+      "file": "speech-bubble.svg",
+      "label": "Speech Bubble",
+      "tags": ["chat", "message", "talk", "dialogue"]
+    },
+    {
+      "id": "thought-bubble",
+      "file": "thought-bubble.svg",
+      "label": "Thought Bubble",
+      "tags": ["thinking", "idea", "dream", "wonder"]
+    },
+    {
+      "id": "checkmark",
+      "file": "checkmark.svg",
+      "label": "Checkmark",
+      "tags": ["done", "complete", "success", "approve", "check"]
+    },
+    {
+      "id": "calendar",
+      "file": "calendar.svg",
+      "label": "Calendar",
+      "tags": ["date", "schedule", "event", "planner"]
+    },
+    {
+      "id": "clock",
+      "file": "clock.svg",
+      "label": "Clock",
+      "tags": ["time", "deadline", "timer", "schedule"]
+    },
+    {
+      "id": "lightbulb",
+      "file": "lightbulb.svg",
+      "label": "Lightbulb",
+      "tags": ["idea", "inspiration", "creative", "innovation"]
+    },
+    {
+      "id": "rocket",
+      "file": "rocket.svg",
+      "label": "Rocket",
+      "tags": ["launch", "startup", "fast", "growth", "speed"]
+    },
+    {
+      "id": "target",
+      "file": "target.svg",
+      "label": "Target",
+      "tags": ["goal", "aim", "focus", "bullseye"]
+    },
+    {
+      "id": "sun",
+      "file": "sun.svg",
+      "label": "Sun",
+      "tags": ["weather", "sunny", "bright", "warm", "day"]
+    },
+    {
+      "id": "cloud",
+      "file": "cloud.svg",
+      "label": "Cloud",
+      "tags": ["weather", "cloudy", "overcast", "sky"]
+    },
+    {
+      "id": "lightning",
+      "file": "lightning.svg",
+      "label": "Lightning Bolt",
+      "tags": ["weather", "storm", "power", "energy"]
+    },
+    {
+      "id": "thumbs-up",
+      "file": "thumbs-up.svg",
+      "label": "Thumbs Up",
+      "tags": ["reaction", "like", "approve", "positive", "good"]
+    },
+    {
+      "id": "hundred-points",
+      "file": "hundred-points.svg",
+      "label": "Hundred Points",
+      "tags": ["reaction", "perfect", "score", "100", "best"]
+    },
+    {
+      "id": "raised-hands",
+      "file": "raised-hands.svg",
+      "label": "Raised Hands",
+      "tags": ["celebration", "hooray", "praise", "hands"]
+    },
+    {
+      "id": "eyes",
+      "file": "eyes.svg",
+      "label": "Eyes",
+      "tags": ["look", "see", "watch", "peek", "reaction"]
+    },
+    {
+      "id": "smiling-face",
+      "file": "smiling-face.svg",
+      "label": "Smiling Face",
+      "tags": ["happy", "smile", "face", "emoji", "positive"]
+    },
+    {
+      "id": "laughing-face",
+      "file": "laughing-face.svg",
+      "label": "Laughing Face",
+      "tags": ["laugh", "happy", "lol", "face", "emoji"]
+    },
+    {
+      "id": "wow-face",
+      "file": "wow-face.svg",
+      "label": "Wow Face",
+      "tags": ["surprise", "wow", "shocked", "face", "emoji"]
+    },
+    {
+      "id": "winking-face",
+      "file": "winking-face.svg",
+      "label": "Winking Face",
+      "tags": ["wink", "face", "playful", "emoji", "cheeky"]
+    },
+    {
+      "id": "cool-face",
+      "file": "cool-face.svg",
+      "label": "Cool Face",
+      "tags": ["cool", "sunglasses", "face", "emoji", "awesome"]
+    },
+    {
+      "id": "thinking-face",
+      "file": "thinking-face.svg",
+      "label": "Thinking Face",
+      "tags": ["thinking", "hmm", "face", "emoji", "wonder"]
+    },
+    {
+      "id": "crying-laughing-face",
+      "file": "crying-laughing-face.svg",
+      "label": "Crying Laughing",
+      "tags": ["lol", "tears", "face", "emoji", "funny"]
+    },
+    {
+      "id": "heart-sparkle",
+      "file": "heart-sparkle.svg",
+      "label": "Heart Sparkle",
+      "tags": ["love", "sparkle", "reaction", "favorite", "magic"]
+    },
+    {
+      "id": "broken-heart",
+      "file": "broken-heart.svg",
+      "label": "Broken Heart",
+      "tags": ["heartbreak", "sad", "split", "reaction", "love"]
+    },
+    {
+      "id": "star",
+      "file": "star.svg",
+      "label": "Star",
+      "tags": ["favorite", "rating", "award", "reaction", "shine"]
+    },
+    {
+      "id": "crown",
+      "file": "crown.svg",
+      "label": "Crown",
+      "tags": ["king", "queen", "royal", "winner", "vip"]
+    },
+    {
+      "id": "gem",
+      "file": "gem.svg",
+      "label": "Gem",
+      "tags": ["diamond", "jewel", "premium", "precious", "luxury"]
+    },
+    {
+      "id": "medal",
+      "file": "medal.svg",
+      "label": "Medal",
+      "tags": ["award", "achievement", "winner", "prize", "champion"]
+    },
+    {
+      "id": "money-bag",
+      "file": "money-bag.svg",
+      "label": "Money Bag",
+      "tags": ["money", "rich", "cash", "finance", "reward"]
+    },
+    {
+      "id": "bell",
+      "file": "bell.svg",
+      "label": "Bell",
+      "tags": ["notification", "alert", "ring", "alarm", "reminder"]
+    }
+  ]
+}

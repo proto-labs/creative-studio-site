@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Creative Studio — a video editor, a design editor and a photo editor in the browser, built on SceneStudio."
+    />
+    <link rel="icon" href="/creative-studio-site/favicon.svg" type="image/svg+xml" />
+    <title>Creative Studio</title>
+    <script>
+      // The theme before the first paint, so the page never flashes the other palette:
+      // `?theme=light|dark`, else the system's. `ThemeProvider` (src/app/theme.tsx) takes
+      // over from here with the same rule.
+      (function () {
+        var theme = new URLSearchParams(location.search).get('theme');
+        if (theme !== 'light' && theme !== 'dark') {
+          theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.dataset.theme = theme;
+      })();
+    </script>
+    <script type="module" crossorigin src="/creative-studio-site/assets/index-Dfz2qCqo.js"></script>
+    <link rel="modulepreload" crossorigin href="/creative-studio-site/assets/rolldown-runtime-DC62tzP2.js">
+    <link rel="modulepreload" crossorigin href="/creative-studio-site/assets/react-CMmHM8Ln.js">
+    <link rel="stylesheet" crossorigin href="/creative-studio-site/assets/index-D1LgDDHT.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
